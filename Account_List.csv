@@ -1,0 +1,106 @@
+﻿AID,Account
+101,boston's checking
+102,CHASE COLLEGE (9630)
+103,Lash Checkings
+104,Savings
+105,Accounts Receivable (A/R)
+106,Inventory Asset
+107,Prepaid Expenses
+108,Uncategorized Asset
+109,Undeposited Funds
+110,Accounts Payable (A/P)
+300,Opening Balance Equity
+301,Owner's Equity
+302,Owner's Equity:Deposit
+303,Owner's Equity:Draw
+304,Retained Earnings
+400,Billable Expense Income
+401,bostons income
+402,Discounts
+403,family income
+404,Gross Receipts
+405,hospital income
+406,Refunds-Allowances
+407,Sales
+408,Sales:Apple
+409,Sales:Check Deposit
+410,Sales:Square
+412,Sales:venmo
+413,Sales of Product Income
+414,"Shipping, Delivery Income"
+415,Unapplied Cash Payment Income
+416,Uncategorized Income
+500,Cost of Goods Sold
+501,Cost of Goods Sold:Eyelash
+502,Cost of Goods Sold:Hair
+503,Cost of labor - COS
+504,Freight & delivery - COS
+505,Inventory Shrinkage
+506,Other Costs - COS
+507,Purchases - COS
+508,Subcontractors - COS
+509,Supplies & Materials - COGS
+510,Abby's College
+511,account ...1796
+512,Accounting
+513,Advertising
+514,Albus
+515,Auto
+516,Auto:Gas
+517,Auto:Insurance
+518,Auto:Parking
+519,Auto:Payment
+520,Auto:Repair
+521,Bad Debts
+522,Bank Charges
+523,boston checking clearing
+524,Business Trip
+525,Clothing
+526,Commissions & fees
+527,Digital Nomad
+528,Disposal Fees
+529,Dues & Subscriptions
+530,Employee Benefits
+531,Entertainment
+532,Freight & Delivery
+533,ILP
+534,Insurance
+535,Insurance - Disability
+536,Insurance - Liability
+537,Interest Expense
+538,Legal & Professional Fees
+539,Meals and Entertainment
+540,office expense
+541,Personal
+542,Personal transfer
+543,phone
+544,Processing Fees
+545,Product
+546,Product:Eye Lash
+547,Product:Hair
+548,Promotional
+549,Purchases
+550,Rent or Lease
+551,Repair & Maintenance
+552,Shipping and delivery expense
+553,Supplies
+554,Taxes & Licenses
+555,Teeth Whitening
+556,tithing
+557,Training & Education
+558,Travel
+559,Uncategorized Expense
+560,Utilities
+561,Venmo
+562,volunteering
+563,Interest Earned
+564,Other Ordinary Income
+565,Other Portfolio Income
+566,bostons college
+567,Charitable Contributions
+568,Groceries
+569,Medical Costs
+570,Miscellaneous
+571,Penalties & Settlements
+572,Personal Expenses
+573,Reconciliation Discrepancies
